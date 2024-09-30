@@ -1,0 +1,14 @@
+# trabajo-final
+<HTML><head><titli>pagina<pncipal</title>
+
+</head>
+<body bg color ="green" es>
+<hi>pagina principal de trabajo-final</h11><br>
+<font size="14"color="WHITE">
+<A HREF="INFO.HTML">INFORMACION</A><BR>
+<A HREF="ESTUDIANTE.HTML">MIS ESTUDIOS</A><BR>
+<A HREF="LIBROS.HTML">LIBROS FAVORITOS </A><BR>
+<A HREF="CANCIONES.HTML">CANCIONES FAVORITAS </A><BR>
+</FRONT>
+</BODY>
+</HTML>
